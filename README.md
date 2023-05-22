@@ -1,2 +1,2 @@
 # News-app
-This is a News-app created on React.js
+This is a 2nd example
